@@ -1,12 +1,12 @@
 
-Uma API Rest simples de cadastro de alunos. 
-Entidade Aluno : 
-id(integer) : chave primária.
-rga (text): registro do aluno.
-nome (text): nome do aluno.
-curso (text) : curso que está fazendo.
-situacao (text) : Se está ativo ou inativo. 
-registrado_em (timestamp): Data que foi cadastrado
+Uma API Rest simples de cadastro de alunos. <br>
+Entidade Aluno : <br>
+id(integer) : chave primária.<br>
+rga (text): registro do aluno.<br>
+nome (text): nome do aluno.<br>
+curso (text) : curso que está fazendo.<br>
+situacao (text) : Se está ativo ou inativo. <br>
+registrado_em (timestamp): Data que foi cadastrado<br>
 
 ## Rotas : 
 
@@ -46,4 +46,3 @@ Há um arquivo de exemplo de requests.
 
   A api por padrão iniciará na porta : 3030.
 
-  
