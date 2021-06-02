@@ -35,11 +35,13 @@ Delete um aluno, através do id.
 
 Há um arquivo de exemplo de requests.
 
+## Requisitos : 
+* Ter o node instalado na sua máquina, a partir da versão 14.17.0 LTS. 
 ## Para rodar o projeto : 
 
 * Primeiro de tudo rode o seguinte comando no seu terminal: 
 
- - node install
+ - npm install
 
  * Para iniciar o servidor :
   - npm start 
